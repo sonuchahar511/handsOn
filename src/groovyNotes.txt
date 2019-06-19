@@ -1,0 +1,24 @@
+https://www.guru99.com/groovy-tutorial.html
+
+println "Hello"
+
+clousures:
+	def clousure1={
+		println "hello again"
+	}
+	clousure1()
+	
+clousure with argument:
+	def myClosure = {
+       a,b,c->
+       y = a+b+c
+       println y
+	}
+	myClosure(1,2,3)
+
+clousure returning some value:
+	def myClosure = {
+       a,b,c->
+       return (a+b+c)
+	}
+	println(myClosure(1,2,3))
