@@ -1,0 +1,13 @@
+package com.example.demo.coding;
+
+public class FrequencyCheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String str="2332123456675677";
+		
+		
+	}
+
+}

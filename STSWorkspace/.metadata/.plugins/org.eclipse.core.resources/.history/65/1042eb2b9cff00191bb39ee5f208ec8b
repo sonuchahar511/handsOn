@@ -1,0 +1,31 @@
+package com.example.demo.BasicCoreConcept;
+
+public class switchCase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int day=5;
+		String daytype;
+		
+		switch(day)
+		{
+		case 1:
+			daytype="monday";
+			break;
+		
+		case 3:
+			daytype="tues";
+			break;
+		case 4:
+			daytype="wedness";
+			break;
+		case 5:
+			daytype="thurday";
+			break;
+		}
+		
+
+	}
+
+}

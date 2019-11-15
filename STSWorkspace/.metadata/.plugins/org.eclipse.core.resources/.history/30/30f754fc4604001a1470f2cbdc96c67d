@@ -1,0 +1,24 @@
+package com.example.demo.coding;
+
+public class FrequencyCheck {
+
+	static final int  maxsize=256;
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String str="2332123456675677";
+		
+		char ch[] = new char[maxsize];
+		
+		
+		for(int i=0; i<=str.length();i++)
+		{
+			
+		}
+		
+		
+		
+	}
+
+}

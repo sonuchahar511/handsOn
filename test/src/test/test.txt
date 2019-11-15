@@ -1,0 +1,2 @@
+Need the ability to view a PDF document within a Java applet? Daniel F.
+ Savarese, answered this question in the March 2000 issue of Java Pro. His solution involves using Adobe's Acrobat for Java, which is available from Adobe. 

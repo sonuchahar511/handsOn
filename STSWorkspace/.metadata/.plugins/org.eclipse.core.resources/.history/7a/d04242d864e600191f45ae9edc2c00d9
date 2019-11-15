@@ -1,0 +1,52 @@
+package com.example.demo.BasicCoreConcept;
+
+public class QuikSort {
+	
+	
+	
+	
+	int partion(int arr[] ,int low , int high)
+	{
+		
+		int pivot =arr[high];
+		int i= low-1;
+		
+		for(j=low;j<high;j++)
+		{
+			
+		}
+		
+	}
+	
+	
+	
+	
+	void sort(int arr[] , int high, int low)
+	
+	{
+		if(low< high)
+		{
+			int pi = 
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		int arr[] = {10,7,8,9,1,5};
+		
+		int arlen= arr.length;
+		
+		QuikSort quik = new QuikSort();
+		quik.sort()
+		
+		
+		
+	}
+
+}
